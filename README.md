@@ -4,7 +4,8 @@
 
 25.08.2020 было создано и протестировано java-приложение Precision с кодом:
 
- public class Main {
+ 
+    public class Main {
  
     public static void main(String[] args) {
     
@@ -16,7 +17,7 @@
         
         System.out.println(totalBonus);
     }
-}
+    } 
 
 ## Описание теста:
 
